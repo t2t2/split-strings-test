@@ -1,0 +1,17 @@
+{
+  "name": "split-strings-test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "size": "size-limit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@size-limit/file": "^11.0.0",
+    "@size-limit/time": "^11.0.0",
+    "@size-limit/webpack": "^11.0.0",
+    "size-limit": "^11.0.0"
+  }
+}
