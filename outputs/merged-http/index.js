@@ -1,0 +1,1 @@
+(()=>{"use strict";ARN,ARN,console.log("http.client_ip","http.flavor","http.host","http.method","http.request_content_length","http.request_content_length_uncompressed","http.response_content_length","http.response_content_length_uncompressed","http.route","http.scheme","http.server_name","http.status_code","http.target","http.url","http.user_agent")})();

@@ -1,0 +1,1 @@
+(()=>{"use strict";var e="compressed",t="content",s="http.",r="length",o="request",n="response",u="_",c=s+"method",a=s+"url",l=s+"target",h=s+"host",_=s+"scheme",g=s+"status_code",m=s+"flavor",p=s+"user_agent",d=s+o+u+t+u+r,i=s+o+u+t+u+r+u+"un"+e,v=s+n+u+t+u+r,f=s+n+u+t+u+r+u+"un"+e,q=s+"server_name",b=s+"route",j=s+"client_ip";console.log(j,m,h,c,d,i,v,f,b,_,q,g,l,a,p)})();
