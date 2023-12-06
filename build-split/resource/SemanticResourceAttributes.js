@@ -562,7 +562,7 @@ export var SEMRESATTRS_WEBENGINE_DESCRIPTION = (WEBENGINE_DOT +
  * Create exported Value Map for SemanticResourceAttributes values
  * @deprecated Use the SEMRESATTRS_XXXXX constants rather than the SemanticResourceAttributes.XXXXX for bundle minification
  */
-export var SemanticResourceAttributes = createConstMap([
+export var SemanticResourceAttributes = /*#__PURE__*/ createConstMap([
     SEMRESATTRS_CLOUD_PROVIDER,
     SEMRESATTRS_CLOUD_ACCOUNT_ID,
     SEMRESATTRS_CLOUD_REGION,

@@ -884,7 +884,7 @@ export var SEMATTRS_MESSAGE_UNCOMPRESSED_SIZE = (MESSAGE +
  * Create exported Value Map for SemanticAttributes values
  * @deprecated Use the SEMATTRS_XXXXX constants rather than the SemanticAttributes.XXXXX for bundle minification
  */
-export var SemanticAttributes = createConstMap([
+export var SemanticAttributes = /*#__PURE__*/ createConstMap([
     SEMATTRS_AWS_LAMBDA_INVOKED_ARN,
     SEMATTRS_DB_SYSTEM,
     SEMATTRS_DB_CONNECTION_STRING,
